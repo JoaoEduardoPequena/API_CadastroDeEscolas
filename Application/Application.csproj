@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="FluentValidation" Version="11.9.1" />
+    <PackageReference Include="Mapster" Version="7.4.0" />
     <PackageReference Include="MediatR" Version="12.2.0" />
   </ItemGroup>
 
@@ -18,8 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="App_Escolas\UseCases\Escolas\Command\" />
-    <Folder Include="App_Escolas\UseCases\Escolas\Queries\" />
     <Folder Include="App_Escolas\UseCases\Provincias\Command\" />
     <Folder Include="App_Escolas\UseCases\Provincias\Queries\" />
   </ItemGroup>

@@ -34,6 +34,8 @@ builder.Services.AddScoped<IDbConnection>(_ =>
 builder.Services.AddScoped<IDataAccess, DataAccess>();
 //builder.Services.AddScoped<IMainDataAccess, MainDataAccess>();
 
+builder.Services.EscolaConfig();
+
 builder.Services.AddMvc()
     .AddJsonOptions(
         options => options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles

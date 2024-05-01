@@ -15,3 +15,20 @@ C:\Users\joaoe\Documents\Visual Studio 2022\Projectos IS4\DesafioBack-End\Persis
 C:\Users\joaoe\Documents\Visual Studio 2022\Projectos IS4\DesafioBack-End\Persistence\obj\Debug\net7.0\refint\Persistence.dll
 C:\Users\joaoe\Documents\Visual Studio 2022\Projectos IS4\DesafioBack-End\Persistence\obj\Debug\net7.0\Persistence.pdb
 C:\Users\joaoe\Documents\Visual Studio 2022\Projectos IS4\DesafioBack-End\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\bin\Debug\net7.0\Infraestructure.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\bin\Debug\net7.0\Infraestructure.pdb
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Persistence\obj\Debug\net7.0\ref\Persistence.dll

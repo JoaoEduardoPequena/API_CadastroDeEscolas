@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "UhOYg9TtrcYc/v97Dl0iCv3/JSf8M0Ra7DCMPU3UaLkfHT5DwxD9nrapSuob/d30ootx7L+v/FvioA1kmFGnbA==",
+  "dgSpecHash": "KRODwdMtjtzUmSCVpjUxhHJLWmPTHx9Wlc+Ag/5UTfd2TUx/+0lZ+GG26QMHJcBxugrIfP5WN+Kh7U1FAGCizw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaoe\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\joaoe\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\joaoe\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\joaoe\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\joaoe\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\joaoe\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\joaoe\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\joaoe\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\joaoe\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

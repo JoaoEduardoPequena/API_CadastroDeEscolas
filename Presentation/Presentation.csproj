@@ -19,7 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\Escolas\" />
     <Folder Include="Controllers\Provincias\" />
   </ItemGroup>
 

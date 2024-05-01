@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ZlZVJ7/ttYw6H9r46QexQ657KvivU/Ivqqo5mYnADQ1OJvxVgUQczVDOH6q0GTd/4QY/z54xbX64C2E9sZX5A==",
+  "dgSpecHash": "DShfHgSrA3e/DM66uUfBMnt3qf1ka2KjjS+xI7kqPYR/nQSY4O79Mhue+a8LKLoF4Pjy43TMZgYgb5KBTYYqbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaoe\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\joaoe\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

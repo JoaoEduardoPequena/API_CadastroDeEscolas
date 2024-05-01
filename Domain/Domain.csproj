@@ -9,8 +9,6 @@
   <ItemGroup>
     <Folder Include="DomainProvincias\Models\Enums\" />
     <Folder Include="DomainProvincias\Models\" />
-    <Folder Include="Domain_Escolas\Interfaces\" />
-    <Folder Include="Domain_Escolas\Models\" />
   </ItemGroup>
 
 </Project>

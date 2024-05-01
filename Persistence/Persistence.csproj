@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repositories\Escolas\" />
     <Folder Include="Repositories\Provincias\" />
   </ItemGroup>
 

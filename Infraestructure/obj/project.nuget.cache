@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qmVwnk0FBBANklRioK++2AR+eZ/eFndgYUrPM1N3mkAlj/GKUC9NriqQhYhw7pVu8I/rwC70AAsUcYgvkitWlA==",
+  "dgSpecHash": "L8T6dMMRalPZHf8gMHRJ/8GAjCxXvZq9zXGeaVTKchjXBq2PkecWxcQuzV+N6GeChpsvhHkjUieKi16l1aAPWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Infraestructure\\Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Infraestructure\\Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaoe\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\joaoe\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

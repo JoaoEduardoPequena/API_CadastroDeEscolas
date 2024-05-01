@@ -10,3 +10,15 @@ C:\Users\joaoe\Documents\Visual Studio 2022\Projectos IS4\DesafioBack-End\Domain
 C:\Users\joaoe\Documents\Visual Studio 2022\Projectos IS4\DesafioBack-End\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\Users\joaoe\Documents\Visual Studio 2022\Projectos IS4\DesafioBack-End\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Users\joaoe\Documents\Visual Studio 2022\Projectos IS4\DesafioBack-End\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Domain\obj\Debug\net7.0\ref\Domain.dll

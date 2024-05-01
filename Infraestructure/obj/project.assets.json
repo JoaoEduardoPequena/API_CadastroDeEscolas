@@ -2126,11 +2126,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Infraestructure\\Infraestructure.csproj",
+      "projectUniqueName": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Infraestructure\\Infraestructure.csproj",
       "projectName": "Infraestructure",
-      "projectPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Infraestructure\\Infraestructure.csproj",
+      "projectPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Infraestructure\\Infraestructure.csproj",
       "packagesPath": "C:\\Users\\joaoe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Infraestructure\\obj\\",
+      "outputPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Infraestructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2150,8 +2150,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Domain\\Domain.csproj"
+            "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Domain\\Domain.csproj"
             }
           }
         }

@@ -13,3 +13,18 @@ C:\Users\joaoe\Documents\Visual Studio 2022\Projectos IS4\DesafioBack-End\Infrae
 C:\Users\joaoe\Documents\Visual Studio 2022\Projectos IS4\DesafioBack-End\Infraestructure\obj\Debug\net7.0\refint\Infraestructure.dll
 C:\Users\joaoe\Documents\Visual Studio 2022\Projectos IS4\DesafioBack-End\Infraestructure\obj\Debug\net7.0\Infraestructure.pdb
 C:\Users\joaoe\Documents\Visual Studio 2022\Projectos IS4\DesafioBack-End\Infraestructure\obj\Debug\net7.0\ref\Infraestructure.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\bin\Debug\net7.0\Infraestructure.deps.json
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\bin\Debug\net7.0\Infraestructure.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\bin\Debug\net7.0\Infraestructure.pdb
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\bin\Debug\net7.0\Domain.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\obj\Debug\net7.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfo.cs
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CopyComplete
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\obj\Debug\net7.0\Infraestructure.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\obj\Debug\net7.0\refint\Infraestructure.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\obj\Debug\net7.0\Infraestructure.pdb
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Infraestructure\obj\Debug\net7.0\ref\Infraestructure.dll

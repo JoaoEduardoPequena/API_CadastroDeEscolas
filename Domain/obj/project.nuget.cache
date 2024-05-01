@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XbF/JmGhRfCOFmAQrPPJkUd7u4HQzX8II1Ktl58lTObULtihuQo/DtQAows+esZmj7Eo6fjbTf0snOHAMcsxNw==",
+  "dgSpecHash": "JM57JsL16EG0mA0ruRphxxk8ern623wPo9aCOEy0fuKbr1OVVDjYAQIRunJYSbLXUx7+HymBNC8Pm/ncJc5ldQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

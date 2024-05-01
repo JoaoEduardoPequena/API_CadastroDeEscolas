@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Application\\Application.csproj": {}
+    "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Application\\Application.csproj": {
+    "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\joaoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Application\\obj\\",
+        "outputPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,14 +31,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Domain\\Domain.csproj"
+              "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Infraestructure\\Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Infraestructure\\Infraestructure.csproj"
+              "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Infraestructure\\Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Infraestructure\\Infraestructure.csproj"
               },
-              "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Persistence\\Persistence.csproj"
+              "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -56,6 +56,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[11.9.1, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
             },
             "MediatR": {
               "target": "Package",
@@ -82,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Domain\\Domain.csproj": {
+    "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\joaoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -140,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Infraestructure\\Infraestructure.csproj": {
+    "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Infraestructure\\Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Infraestructure\\Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Infraestructure\\Infraestructure.csproj",
         "projectName": "Infraestructure",
-        "projectPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Infraestructure\\Infraestructure.csproj",
+        "projectPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Infraestructure\\Infraestructure.csproj",
         "packagesPath": "C:\\Users\\joaoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -167,8 +171,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Domain\\Domain.csproj"
+              "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Domain\\Domain.csproj"
               }
             }
           }
@@ -216,14 +220,14 @@
         }
       }
     },
-    "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\joaoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -243,11 +247,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Domain\\Domain.csproj"
+              "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Infraestructure\\Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\joaoe\\Documents\\Visual Studio 2022\\Projectos IS4\\DesafioBack-End\\Infraestructure\\Infraestructure.csproj"
+              "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Infraestructure\\Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\joaoe\\Documents\\PROJECTOS\\API_CadastroDeEscolas\\Infraestructure\\Infraestructure.csproj"
               }
             }
           }
