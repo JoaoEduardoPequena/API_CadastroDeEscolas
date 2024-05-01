@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DomainProvincias\Models\Enums\" />
+    <Folder Include="DomainProvincias\Models\" />
+    <Folder Include="Domain_Escolas\Interfaces\" />
+    <Folder Include="Domain_Escolas\Models\" />
+  </ItemGroup>
+
+</Project>
