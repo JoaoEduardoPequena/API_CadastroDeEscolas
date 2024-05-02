@@ -45,16 +45,6 @@ var applicationAssembly = typeof(Application.AssemblyReference).Assembly;
 
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(applicationAssembly));
 builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
-//builder.Services.AddValidatorsFromAssembly(applicationAssembly);
-
-//var myhandlers = AppDomain.CurrentDomain.Load("Application");
-//builder.Services.AddMediatR(cfg =>
-//{
-//    cfg.RegisterServicesFromAssemblies(myhandlers);
-//    cfg.AddOpenBehavior(typeof(ValidationBehavior<,>));
-//});
-
-//builder.Services.AddValidatorsFromAssembly(Assembly.Load("Application"));
 
 builder.Services.AddHsts(opt =>
 {
@@ -81,7 +71,6 @@ app.UseDeveloperExceptionPage();
 
 app.UseStaticFiles();
 app.UseRouting();
-//app.UseAuthorization();
 app.UseCors("CORS");
 
 app.MapControllers();
