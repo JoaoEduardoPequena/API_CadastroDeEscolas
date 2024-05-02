@@ -14,9 +14,9 @@ Esta é uma aplicação back-end, (API), feita na versão do .NET CORE 7.0 e CQR
 <h6>Tecnologias Utilizadas:</h6>
 <ul> 
    <li>.NET CORE 7.0</li>
-   <li>Linguagem de Programação C#</li>
-   <li>Dapper</li>
    <li>CQRS como Padrão Arquitectural</li>
+   <li>Linguagem de Programação C#</li>
+   <li>Dapper ORM</li>
    <li>SGB SQL Server 2019, para criação do banco de dados</li>
 </ul>
 
