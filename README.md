@@ -1,6 +1,6 @@
 # API_CadastroDeEscolas
 <p>Aplicação de registo de escola - Desafio back-end</p>
-Esta é uma aplicação back-end, (API), feita na versão do .NET CORE 7.0
+Esta é uma aplicação back-end, (API), feita na versão do .NET CORE 7.0 e CQRS como Padrão Arquitectural
 <h6>Funcionalidades: </h6>
 <ul> 
    <li>Criar novas escola</li>
@@ -23,7 +23,7 @@ Esta é uma aplicação back-end, (API), feita na versão do .NET CORE 7.0
 <h6>Para Execução do projecto:</h6>
 
 <p>Modelo de planilha excel a ser importado:</p>
-A imagem abaixo ilustra a estrutura do campo em excel na qual devem estar para que a importação funciona
+<p> A imagem abaixo ilustra a estrutura do campo em excel na qual devem estar para que a importação funciona</p>
 
 ![image](https://github.com/JoaoEduardoPequena/API_CadastroDeEscolas/assets/62374762/01c21bb0-ddc9-4b01-9d91-a3e3007f7d97)
 
