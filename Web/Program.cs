@@ -31,8 +31,7 @@ builder.Services.ConfigureSwagger();
 builder.Services.AddScoped<IDbConnection>(_ =>
    new Microsoft.Data.SqlClient.SqlConnection(builder.Configuration.GetConnectionString("DataSource")));
 
-builder.Services.AddScoped<IDataAccess, DataAccess>();
-//builder.Services.AddScoped<IMainDataAccess, MainDataAccess>();
+builder.Services.AddScoped<IDataAccess,DataAccess>();
 
 builder.Services.EscolaConfig();
 

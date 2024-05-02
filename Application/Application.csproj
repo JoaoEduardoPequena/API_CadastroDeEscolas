@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.102.2" />
     <PackageReference Include="FluentValidation" Version="11.9.1" />
     <PackageReference Include="Mapster" Version="7.4.0" />
     <PackageReference Include="MediatR" Version="12.2.0" />
@@ -21,6 +22,8 @@
   <ItemGroup>
     <Folder Include="App_Escolas\UseCases\Provincias\Command\" />
     <Folder Include="App_Escolas\UseCases\Provincias\Queries\" />
+    <Folder Include="App_Escolas\UseCases\UploadExcel\Command\" />
+    <Folder Include="App_Escolas\UseCases\UploadExcel\Queries\" />
   </ItemGroup>
 
 </Project>

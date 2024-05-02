@@ -190,3 +190,10 @@ C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Web\obj\Debug\net7.0\We
 C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Web\obj\Debug\net7.0\ref\Web.dll
 C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Web\bin\Debug\net7.0\Mapster.dll
 C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Web\bin\Debug\net7.0\Mapster.Core.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Web\bin\Debug\net7.0\ClosedXML.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Web\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Web\bin\Debug\net7.0\ExcelNumberFormat.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Web\bin\Debug\net7.0\Irony.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Web\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Web\bin\Debug\net7.0\System.IO.Packaging.dll
+C:\Users\joaoe\Documents\PROJECTOS\API_CadastroDeEscolas\Web\bin\Debug\net7.0\XLParser.dll
