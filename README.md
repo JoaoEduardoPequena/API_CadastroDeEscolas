@@ -1,5 +1,5 @@
 # API_CadastroDeEscolas
-Aplicação de registo de escola - Desafio back-end
+<p>Aplicação de registo de escola - Desafio back-end</p>
 Esta é uma aplicação back-end, (API), feita na versão do .NET CORE 7.0
 Funcionalidades:
 1- Criar novas escola
@@ -9,7 +9,7 @@ Funcionalidades:
 5- Filtrar uma escola especifica
 6 - Importar dados do excel para base de dados
 
-Tecnologias Utilizadas:
+<h6>Tecnologias Utilizadas:</h6>
 Linguagem de Programação C#
 Dapper
 CQRS como Padrão Arquitectural
