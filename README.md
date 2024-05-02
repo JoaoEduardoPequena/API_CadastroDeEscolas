@@ -1,8 +1,8 @@
 # API_CadastroDeEscolas
 <p>Aplicação de registo de escola - Desafio back-end</p>
 Esta é uma aplicação back-end, (API), feita na versão do .NET CORE 7.0
-
-<ul> Funcionalidades
+<h6>Funcionalidades: </h6>
+<ul> 
    <li>Criar novas escola</li>
    <li>Editar escola</li>
    <li>Eliminar escola</li>
@@ -12,15 +12,18 @@ Esta é uma aplicação back-end, (API), feita na versão do .NET CORE 7.0
 </ul>
 
 <h6>Tecnologias Utilizadas:</h6>
-Linguagem de Programação C#
-Dapper
-CQRS como Padrão Arquitectural
-SGB SQL Server 2019
+<ul> 
+   <li>.NET CORE 7.0</li>
+   <li>Linguagem de Programação C#</li>
+   <li>Dapper</li>
+   <li>CQRS como Padrão Arquitectural</li>
+   <li>SGB SQL Server 2019, para criação do banco de dados</li>
+</ul>
 
-Para Execução do projecto:
+<h6>Para Execução do projecto:</h6>
 
-Modelo planilha excel a ser importado:
-A imagem abaixo ilustra a esttrutura do campo em excel na qual devem estar estrutura para que a importação funciona
+<p>Modelo de planilha excel a ser importado:</p>
+A imagem abaixo ilustra a estrutura do campo em excel na qual devem estar para que a importação funciona
 
 ![image](https://github.com/JoaoEduardoPequena/API_CadastroDeEscolas/assets/62374762/01c21bb0-ddc9-4b01-9d91-a3e3007f7d97)
 
