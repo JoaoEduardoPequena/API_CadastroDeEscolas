@@ -2,12 +2,14 @@
 <p>Aplicação de registo de escola - Desafio back-end</p>
 Esta é uma aplicação back-end, (API), feita na versão do .NET CORE 7.0
 Funcionalidades:
-1- Criar novas escola
-2- Editar escola
-3 - Eliminar escola
-4 - Listar todas escolas cadastradas
-5- Filtrar uma escola especifica
-6 - Importar dados do excel para base de dados
+<ul>
+   <li>1- Criar novas escola</li>
+   <li>2- Editar escola</li>
+   <li>3 - Eliminar escola</li>
+   <li>4 - Listar todas escolas cadastradas</li>
+   <li>5- Filtrar uma escola especifica</li>
+   <li>6 - Importar dados do excel para base de dados</li>	
+</ul>
 
 <h6>Tecnologias Utilizadas:</h6>
 Linguagem de Programação C#
